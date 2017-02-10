@@ -1,1 +1,16 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="shortcut icon" href="/favicon.ico"><script async defer="defer" src="https://apis.google.com/js/api.js"></script><script src="https://use.fontawesome.com/a7cd02a6d6.js"></script><title>4Dials</title><link href="/static/css/main.3b87e093.css" rel="stylesheet"></head><body><div id="root"></div><div id="c"></div><script type="text/javascript" src="/static/js/main.634138d7.js"></script></body></html>
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="shortcut icon" href="/favicon.ico"><script>function handleLoad() {
+        let CLIENT_ID = '939474744586-sr45q1lonjllfrr66k7volmv9qb094d0.apps.googleusercontent.com'
+        let SCOPES = 'https://www.googleapis.com/auth/drive'
+        let DISCOVERY_DOCS = ['https://www.googleapis.com/discovery/v1/apis/drive/v3/rest']
+
+        gapi.load('client:auth2', initClient)
+
+        function initClient () {
+          gapi.client.init({
+            discoveryDocs: DISCOVERY_DOCS,
+            clientId: CLIENT_ID,
+            scope: SCOPES,
+            immediate: false
+          })
+        }
+      }</script><script src="https://apis.google.com/js/api.js" onload="handleLoad()"></script><script src="https://use.fontawesome.com/a7cd02a6d6.js"></script><title>4Dials</title><link href="/static/css/main.3b87e093.css" rel="stylesheet"></head><body><div id="root"></div><div id="c"></div><script type="text/javascript" src="/static/js/main.587327da.js"></script></body></html>
