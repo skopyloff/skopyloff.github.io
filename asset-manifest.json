@@ -1,7 +1,15 @@
 {
-  "main.css": "static/css/main.83fa68fc.css",
-  "main.css.map": "static/css/main.83fa68fc.css.map",
-  "main.js": "static/js/main.a3f3ccbd.js",
-  "main.js.map": "static/js/main.a3f3ccbd.js.map",
-  "static/media/bg.jpg": "static/media/bg.590e999b.jpg"
+  "main.css": "static/css/main.9db122f9.css",
+  "main.css.map": "static/css/main.9db122f9.css.map",
+  "main.js": "static/js/main.fe63a38c.js",
+  "main.js.map": "static/js/main.fe63a38c.js.map",
+  "static/media/bg.jpg": "static/media/bg.590e999b.jpg",
+  "static/media/close_icon.png": "static/media/close_icon.5efcd823.png",
+  "static/media/delete_icon.png": "static/media/delete_icon.6f0a47bd.png",
+  "static/media/done_icon.png": "static/media/done_icon.14133e43.png",
+  "static/media/dropbox_icon.png": "static/media/dropbox_icon.393b9bd9.png",
+  "static/media/google_icon.png": "static/media/google_icon.a91deeb2.png",
+  "static/media/info_icon.png": "static/media/info_icon.0dd6e49d.png",
+  "static/media/lock_icon.png": "static/media/lock_icon.64e8540a.png",
+  "static/media/save_icon.png": "static/media/save_icon.6bb39d54.png"
 }
